@@ -21,4 +21,4 @@ Can run directly on Netlify (including your tests) and will save the results to 
 
 Speedlify will also save your data to `/results.zip` so that you can download later. This serves as a fallback backup mechanism in case your Netlify cache gets blown away. Just look up your previous build URL and download the data to restore.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/15308a93-2fc2-4f69-b470-4922afe532cc/deploy-status)](https://app.netlify.com/sites/wizardly-bartik-59c1bc/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/842a6fc1-d0dc-43fe-8c17-c550230e106a/deploy-status)](https://app.netlify.com/sites/reverent-allen-ff1eca/deploys)
