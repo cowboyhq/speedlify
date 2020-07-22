@@ -1,6 +1,5 @@
 module.exports = {
 	ebikes: {
-		name: "E-bikes", // optional, falls back to object key
 		description: "Competitors",
 		options: {
 			frequency: 60 * 24, // 24 hours
@@ -16,7 +15,6 @@ module.exports = {
 		]
 	},
 	cowboy: {
-		name: "cowboy.com", // optional, falls back to object key
 		description: "Cowboy",
 		options: {
 			frequency: 60 * 24, // 24 hours
@@ -37,6 +35,7 @@ module.exports = {
 			"https://cowboy.com/pages/returns",
 			"https://cowboy.com/pages/warranty",
 			"https://cowboy.com/pages/downloads",
-			"https://cowboy.com/pages/tutorials"		]
+			"https://cowboy.com/pages/tutorials"
+		]
 	}
 };
