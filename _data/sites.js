@@ -12,6 +12,7 @@ module.exports = {
 			"https://amplerbikes.com/",
 			"https://www.trekbikes.com/",
 			"https://www.raleigh.co.uk/",
+			"https://muto.bike/"
 		]
 	},
 	cowboy: {
