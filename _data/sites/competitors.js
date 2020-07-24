@@ -11,11 +11,11 @@ module.exports = {
 	},
 	urls: [
 		"https://cowboy.com/",
-		"https://www.vanmoof.com/en-NL/",
+		"https://www.vanmoof.com/",
 		"https://angell.bike/",
 		"https://amplerbikes.com/",
-		"https://www.trekbikes.com/be/fr_BE/",
-		"https://www.raleigh.co.uk/gb/en/",
-		"https://muto.bike/en/",
+		"https://www.trekbikes.com/",
+		"https://www.raleigh.co.uk/",
+		"https://muto.bike/",
 	]
 };
