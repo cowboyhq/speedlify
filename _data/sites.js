@@ -7,12 +7,12 @@ module.exports = {
 		},
 		urls: [
 			"https://cowboy.com/",
-			"https://www.vanmoof.com/",
+			"https://www.vanmoof.com/en-NL/",
 			"https://angell.bike/",
 			"https://amplerbikes.com/",
-			"https://www.trekbikes.com/",
-			"https://www.raleigh.co.uk/",
-			"https://muto.bike/"
+			"https://www.trekbikes.com/be/fr_BE/",
+			"https://www.raleigh.co.uk/gb/en/",
+			"https://muto.bike/en/"
 		]
 	},
 	cowboy: {
@@ -30,13 +30,13 @@ module.exports = {
 			"https://cowboy.com/blogs/stories/",
 			"https://cowboy.com/pages/test-ride/",
 			"https://cowboy.com/cart/",
-			"https://cowboy.com/pages/careers",
-			"https://cowboy.com/pages/contact-us",
-			"https://cowboy.com/pages/delivery",
-			"https://cowboy.com/pages/returns",
-			"https://cowboy.com/pages/warranty",
-			"https://cowboy.com/pages/downloads",
-			"https://cowboy.com/pages/tutorials"
+			"https://cowboy.com/pages/careers/",
+			"https://cowboy.com/pages/contact-us/",
+			"https://cowboy.com/pages/delivery/",
+			"https://cowboy.com/pages/returns/",
+			"https://cowboy.com/pages/warranty/",
+			"https://cowboy.com/pages/downloads/",
+			"https://cowboy.com/pages/tutorials/"
 		]
 	}
 };
