@@ -14,8 +14,6 @@ module.exports = {
 		"https://www.vanmoof.com/",
 		"https://angell.bike/",
 		"https://amplerbikes.com/",
-		"https://www.trekbikes.com/",
-		"https://www.raleigh.co.uk/",
 		"https://muto.bike/",
 	]
 };
