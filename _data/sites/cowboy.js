@@ -14,7 +14,6 @@ module.exports = {
         "https://cowboy.com/pages/easy-rider/",
         "https://cowboy.com/pages/business/",
         "https://cowboy.com/blogs/reviews/",
-        "https://cowboy.com/blogs/stories/",
         "https://cowboy.com/pages/test-ride/",
         "https://cowboy.com/cart/",
 	]
