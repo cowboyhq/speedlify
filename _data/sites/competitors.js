@@ -16,5 +16,6 @@ module.exports = {
 		"https://amplerbikes.com/",
 		"https://muto.bike/",
 		"https://eeyo.bike/",
+		"https://iweech.com/",
 	]
 };
