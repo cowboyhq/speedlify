@@ -13,7 +13,7 @@ module.exports = {
 		"https://cowboy.com/",
 		"https://www.vanmoof.com/",
 		"https://angell.bike/",
+		"https://www.cube.eu/cube-bikes/",
 		"https://amplerbikes.com/",
-		"https://iweech.com/",
 	]
 };
