@@ -11,9 +11,9 @@ module.exports = {
 	},
 	urls: [
 		"https://cowboy.com/",
-		"https://www.vanmoof.com/en-BE/",
-		"https://angell.bike/fr-fr/",
-		"https://www.cube.eu/cube-bikes/",
+		"https://www.vanmoof.com/en-BE",
+		"https://angell.bike/fr-fr",
+		"https://www.cube.eu/cube-bikes",
 		"https://amplerbikes.com/",
 	]
 };
